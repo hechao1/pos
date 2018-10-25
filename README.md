@@ -1,6 +1,6 @@
-# pos  vue+element
+# pos  
 
-> A Vue.js project
+vue+element写的收银系统简单的页面
 
 ## Build Setup
 
